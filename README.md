@@ -13,7 +13,7 @@ The player places different types of plants on individual cells of the grid. Eac
 landlord´s menage (shooting, exploding, blocking).
 
 From the other hand, we got different "breeds" of enemies such as buckethead, explosive & sporty zombies which have their own 
-behaviors and their own weaknesses to different plants.
+behaviors and weaknesses to different plants.
 The player must pay to place plants using a currency called "Sun". The player collects "suns" by typing on the console the coordinates
 where the sun is being placed, or he/she can pay for sunflowers, which will generate a specific amount of suns through rounds.
 
