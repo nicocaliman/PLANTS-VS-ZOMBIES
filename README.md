@@ -12,6 +12,11 @@ player´s house to the left.
 The player places different types of plants on individual cells of the grid. Each plant has different abilities to defend 
 landlord´s menage (shooting, exploding, blocking).
 
-From the other hand, we got different "breeds" of zombies such as 
+From the other hand, we got different "breeds" of enemies such as buckethead, explosive & sporty zombies which have their own 
+behaviors and their own weaknesses to different plants.
+The player must pay to place plants using a currency called "Sun". The player collects "suns" by typing on the console the coordinates
+where the sun is being placed, or he/she can pay for sunflowers, which will generate a specific amount of suns through rounds.
+
+These suns will appear randomly across the land.
 
 
