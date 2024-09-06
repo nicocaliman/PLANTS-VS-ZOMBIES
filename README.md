@@ -10,10 +10,8 @@ the goal is to defend a player´s territories by obstructing the enemy attackers
 In this version, players still have to defend their suburban home from zombies. The loan is divided into a grid with the
 player´s house to the left.
 The player places different types of plants on individual cells of the grid. Each plant has different abilities to defend 
-landlord´s menage.
+landlord´s menage (shooting, exploding, blocking).
 
-IMPLEMENTED PLANTS:
+From the other hand, we got different "breeds" of zombies such as 
 
-  PEASHOOTER
-  SUNFLOWER
-  
+
